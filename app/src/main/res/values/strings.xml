@@ -10,6 +10,17 @@
     <string name="invalid_password">Password must be >5 characters</string>
     <string name="login_failed">"Login failed"</string>
     <string name="title_activity_main">MainActivity</string>
+
+    <!-- Strings related to Mongo DB -->
+    <string name="db_host_name">usaas.qrozb.gcp.mongodb.net</string>
+    <string name="db_user_id">admin</string>
+    <string name="db_user_pwd">Monalisa11</string>
+    <string name="db_name">Usaas</string>
+    <string name="coll_users_name">Users</string>
+    <string name="coll_chats_name">Chats</string>
+    <string name="coll_personality_name">Personality</string>
+    <string name="coll_settings_name">AppSettings</string>
+
     <!--
     This string is used for square devices and overridden by hello_world in
     values-round/strings.xml for round devices.
